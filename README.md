@@ -1,2 +1,7 @@
 # Stobular
-STOBULAR Quiz Application [Grade 11 Project - 1/13/2019]
+Application Name: Stobular
+IDE: Android Studio
+Date Finished: 1/13/2019
+Type: Quiz Application 
+OS: Android
+(Grade 11 Project)
