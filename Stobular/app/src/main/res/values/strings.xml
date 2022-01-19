@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Stobular</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="play">Play</string>
+    <string name="play_again">Play Again</string>
+    <string name="Score" />
+    <string name="timestart" />
+    <string name="A" />
+    <string name="B" />
+    <string name="C" />
+    <string name="D" />
+    <string name="questionsection" />
+    <string name="finalscore" />
+    <string name="vocab">TODO</string>
+    <string name="back" />
+    <string name="backk">TODO</string>
+    <string name="infooo">How To Play</string> />
+</resources>
